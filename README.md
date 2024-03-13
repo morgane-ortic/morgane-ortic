@@ -1,6 +1,6 @@
 Hi! :)
 
-This is avery short intro as a super new github user. My name is Morgane, I like nettles and I'm learning Python.
+This is a very short intro as a super new github user. My name is Morgane, I like nettles and I'm learning Python.
 
 ![avatar](https://github.com/morgane-ortic/morgane-ortic/assets/163154954/204a8183-5257-4aee-bdfd-7c7fd606d8e3)
 *A slightly unflattering picture of myself*
