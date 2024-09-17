@@ -2,8 +2,8 @@ Hi! :)
 
 I'm a python student, this is where you can find all my projects on my way to mastering programming
 
+![imatge](https://github.com/user-attachments/assets/0dcff245-d53d-4102-becc-af6dead67bdd)
 
-![avatar-500x500](https://github.com/user-attachments/assets/1a59e3d0-feac-4edb-af5f-a7f442821a4c)
 
 *This is not a glitch, this is a feature*
 
