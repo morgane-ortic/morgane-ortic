@@ -1,4 +1,4 @@
-### Hi, I'm Morgane Ortic 🌱
+## Hi, I'm Morgane Ortic 🌱
  
 📟 Currently learning Python programming at [Digital Career Institute](https://digitalcareerinstitute.org)\
 Programming hacked my heart 💜 I love the endless possibilities of putting together clean and useful code\
