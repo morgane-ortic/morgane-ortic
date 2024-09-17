@@ -1,6 +1,4 @@
-Hi! :)
-
-I'm a python student, this is where you can find all my projects on my way to mastering programming
+Currently a python student. This is where you can find all my projects on my way to mastering programming.
 
 ![imatge](https://github.com/user-attachments/assets/b7855d7a-abb8-43b0-b961-e08de689518b)
 
