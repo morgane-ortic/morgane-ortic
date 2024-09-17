@@ -3,9 +3,9 @@ Hi! :)
 I'm a python student, this is where you can find all my projects on my way to mastering programming
 
 
+![avatar-500x500](https://github.com/user-attachments/assets/1a59e3d0-feac-4edb-af5f-a7f442821a4c)
 *This is not a glitch, it's a feature*
 
-![avatar-500x500](https://github.com/user-attachments/assets/1a59e3d0-feac-4edb-af5f-a7f442821a4c)
 
 <!--
 **morgane-ortic/morgane-ortic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
