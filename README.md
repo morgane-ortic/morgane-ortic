@@ -2,10 +2,9 @@ Hi! :)
 
 I'm a python student, this is where you can find all my projects on my way to mastering programming
 
-![imatge](https://github.com/user-attachments/assets/0dcff245-d53d-4102-becc-af6dead67bdd)
+![imatge](https://github.com/user-attachments/assets/b7855d7a-abb8-43b0-b961-e08de689518b)
 
-
-*This is not a glitch, this is a feature*
+*This is not a glitch, it's a feature*
 
 
 <!--
