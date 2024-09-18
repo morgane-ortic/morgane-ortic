@@ -2,7 +2,7 @@
  
 📟 Currently learning Python programming at [Digital Career Institute](https://digitalcareerinstitute.org) 🐍\
 Programming hacked my heart 💜 I love the endless possibilities of putting together clean and useful code\
-Open source and Linux enthusiast 🐧 for open tools and happy developers + users\
+Open source and Linux enthusiast 🐧 open and accessible tools for happy developers + users\
 🕊️ morgane.ortic@proton.me
 
 #### I'm using:
