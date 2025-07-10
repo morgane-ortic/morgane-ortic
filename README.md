@@ -1,8 +1,8 @@
 ## Hi, I'm Morgane Ortic 🌱
  
-📟 Currently learning Python programming at [Digital Career Institute](https://digitalcareerinstitute.org) 🐍\
+📟 Currently working as a software programmer in an IT-Service company. Proficient in Python 🐍 and learning a bunch of other tools\
 Programming hacked my heart 💜 I love the endless possibilities of putting together clean and useful code\
-Open source and Linux enthusiast 🐧 for open and accessible tools and happy developers + users\
+Open source and Linux fangirl 🐧 for open and accessible tools and happy developers + users\
 🕊️ morgane.ortic@proton.me
 
 #### I'm using:
